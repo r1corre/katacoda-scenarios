@@ -1,5 +1,5 @@
-The `cd` command (**c**hange **d**irectory) can be used to visit another directory in the file tree. 
-The target directory must specified using an absolute or a relative path. 
+The `cd` command (**c**hange **d**irectory) can be used to reach another directory in the file tree. 
+The target directory could be specified using an absolute or a relative path. 
 
 To experiment with the `cd` command, run the following commands:
 
