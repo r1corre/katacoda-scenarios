@@ -17,8 +17,6 @@ cd ~/test
 pwd
 ```
 
-However, depending on the computer note that the HOME directory is not always the right place to place large files (particularly on a cluster with shared resources). 
-Ask your administrator!
 
 
 To answer the next question, please type the 3 following commands:
@@ -36,3 +34,8 @@ cd
 [ ] nr/
 [*] /root/
 [ ] /root/test/
+
+
+
+However, depending on the computer note that the HOME directory is not always the right place to place large files (particularly on a cluster with shared resources). 
+Ask your administrator!
